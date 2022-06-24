@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace HotelManagement.Entitties
+namespace HotelManagement.Entities
 {
     public class AppUserRoles : IdentityRole
     {

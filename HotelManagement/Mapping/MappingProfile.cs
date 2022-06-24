@@ -1,6 +1,7 @@
-﻿using HotelManagement.Entitties;
+﻿
 using HotelManagement.Models;
 using AutoMapper;
+using HotelManagement.Entities;
 
 namespace HotelManagement.Mapping
 {
@@ -12,6 +13,14 @@ namespace HotelManagement.Mapping
             CreateMap<AppUserModel, AppUser>();
             CreateMap<AppUserRoles, AppUserRolesModel>();
             CreateMap<AppUserRolesModel, AppUserRoles>();
+            CreateMap<TablesModel, Table>();
+            CreateMap<Table, TablesModel>();
+            CreateMap<Type, TypeModel>();
+            CreateMap<TypeModel, Type>();
+            CreateMap<Category, CategoryModel>();
+            CreateMap<CategoryModel, Category>();
+            CreateMap<Item, ItemsModel>();
+            CreateMap<ItemsModel, Item>();
         }
           
     }

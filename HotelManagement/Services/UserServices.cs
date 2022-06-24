@@ -2,7 +2,7 @@
 using HotelManagement.Configuration;
 using HotelManagement.Constants;
 using HotelManagement.DbContext;
-using HotelManagement.Entitties;
+using HotelManagement.Entities;
 using HotelManagement.Models;
 using HotelManagement.Services.Interfaces;
 using Microsoft.AspNetCore.Identity;

@@ -1,6 +1,6 @@
 using HotelManagement.Configuration;
 using HotelManagement.DbContext;
-using HotelManagement.Entitties;
+using HotelManagement.Entities;
 using HotelManagement.Services;
 using HotelManagement.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -50,6 +50,10 @@ namespace HotelManagement
             var key = Encoding.ASCII.GetBytes(Configuration["JwtConfig:Secret"]);
 
             services.AddTransient<IUserService, UserServices>();
+            services.AddTransient<ITableService, TableService>();
+            services.AddTransient<ITypeService, TypeServices>();
+            services.AddTransient<ICategoryService, CategoryService>();
+            services.AddTransient<IItemService, ItemService>();
 
             services.AddAutoMapper(typeof(Startup));
 

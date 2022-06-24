@@ -11,7 +11,6 @@ D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\Microsoft.OpenApi.d
 D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\projects\HotelManagement\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.AssemblyReference.cache
 D:\projects\HotelManagement\HotelManagement\obj\Debug\net5.0\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
 D:\projects\HotelManagement\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfoInputs.cache
 D:\projects\HotelManagement\HotelManagement\obj\Debug\net5.0\HotelManagement.AssemblyInfo.cs
@@ -70,3 +69,4 @@ D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\Microsoft.Extension
 D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 D:\projects\HotelManagement\HotelManagement\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\projects\HotelManagement\HotelManagement\obj\Debug\net5.0\HotelManagement.csproj.AssemblyReference.cache
